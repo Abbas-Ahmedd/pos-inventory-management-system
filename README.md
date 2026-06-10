@@ -62,8 +62,8 @@
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Abbas-Ahmedd/pos-inventory-management-system.git
+cd pos-inventory-management-system
 ```
 
 ### Step 2 — Create a Virtual Environment
